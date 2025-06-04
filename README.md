@@ -133,3 +133,7 @@ The library handles bit-level packing according to DBC specifications:
 - You'll need to integrate with your preferred Arduino CAN library (MCP2515, ESP32 CAN, etc.)
 - All CAN frames are assumed to be 8 bytes (standard CAN)
 - Message IDs are defined as preprocessor constants for easy reference
+
+## Disclaimer
+
+- This is a vibe coded mess so don't complain too much pls
